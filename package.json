@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/longp/js_clock/issues"
   },
-  "homepage": "https://github.com/longp/js_clock#readme"
+  "homepage": "https://github.com/longp/js_clock#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
